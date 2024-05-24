@@ -1,6 +1,8 @@
-# FedCIL
 
- Implementation of *Better Generative Replay for Continual Federated Learning, ICLR' 23*
+
+#FairFedCIL
+
+Implementation of Dynamic Self-Adaptive Selection Strategy
 
 
 
