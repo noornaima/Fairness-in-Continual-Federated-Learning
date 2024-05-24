@@ -2,7 +2,7 @@
 
 #FairFedCIL
 
-Implementation of Dynamic Self-Adaptive Selection Strategy
+Implementation of "Dynamic Self-Adaptive Selection Strategy" with the "Better Generative Replay for Continual Federated Learning, ICLR' 23"
 
 
 
